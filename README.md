@@ -4,11 +4,10 @@ Semester Ganjil 2026/2027
 
 ---
 
-## Identitas Mahasiswa
+## Identitas 
 
 * **Nama** : Bagus Wichaksono Amanulloh
-* **Prodi** : D-IV Teknik Informatika
-* **Repository** : PCVK_Ganjil_2026
+* **Nomor Absen** : 07
 
 ---
 
