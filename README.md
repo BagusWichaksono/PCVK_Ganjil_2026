@@ -8,13 +8,3 @@ Semester Ganjil 2026/2027
 
 * **Nama** : Bagus Wichaksono Amanulloh
 * **Nomor Absen** : 07
-
----
-
-## Teknologi yang Digunakan
-
-* Python 3
-* OpenCV
-* NumPy
-* Matplotlib
-* Scikit-Image
